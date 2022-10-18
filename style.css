@@ -50,14 +50,19 @@ image {
     width: 30%;
 }
 
+.l-bg-blue {
+    background-color: #123D88;
+}
+
+.l-bg-white {
+    background-color: #F7FAFF;
+}
+
 /*header*/
 .l-header {
     padding: 30px 0;
 }
 
-.l-bg-blue {
-    background-color: #123D88;
-}
 
 /*l-footer*/
 .l-footer {
