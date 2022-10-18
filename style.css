@@ -26,6 +26,14 @@ image {
     margin-right: auto;
 }
 
+.l-mb7 {
+    margin-bottom: 70px;
+}
+
+.l-py8 {
+    padding: 80px 0;
+}
+
 /*flexbox*/
 .l-flex {
     display: flex;
